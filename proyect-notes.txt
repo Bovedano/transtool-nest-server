@@ -1,0 +1,6 @@
+//Instalacion de nestjs a nivel global:
+npm install -g @nestjs/cli  
+//Crear aplicacion
+nest new splnext-nest-server 
+//Arranque inicial
+npm run start:dev
